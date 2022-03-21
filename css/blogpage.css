@@ -173,6 +173,9 @@ ol{
     border-radius: 5px;
     border: solid 3px rgb(117, 2, 59);
 }
+.container-recipe:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.432), 0 6px 20px 0 rgba(0, 0, 0, 0.459);
+}
 
 /* ----------------------------------------------- */
 /* FOOTER */
